@@ -114,7 +114,8 @@ title             Set the metadata document title [0.3.10]
 
 Interpreted Text Role Quick Reference
 =====================================
-See <http://docutils.sf.net/docs/ref/rst/roles.html> for full info.
+
+See <http://docutils.sf.net/docs/ref/rst/directives.html> for full info.
 
 ================  ============================================================
 Role Name         Description
