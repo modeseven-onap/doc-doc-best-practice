@@ -39,9 +39,8 @@ html_show_sphinx = False
 extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.graphviz',
-    'sphinxcontrib.blockdiag',
+    'sphinxcontrib.mermaid',
     'sphinxcontrib.plantuml',
-    'sphinxcontrib.seqdiag',
     'sphinxcontrib.spelling' ,
     'sphinxcontrib.openapi',
     'sphinx_toolbox.collapse'
